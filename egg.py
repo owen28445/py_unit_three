@@ -1,4 +1,8 @@
 # Start writing your functions below this line
+def printSpamAlot():
+
+
+    print("Spam, Spam Spam Spam Spam Spam")
 
 
 def main():
